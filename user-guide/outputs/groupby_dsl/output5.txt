@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬───────────────────────┬────────────────────┐
+│ state ┆ youngest              ┆ oldest             │
+│ ---   ┆ ---                   ┆ ---                │
+│ cat   ┆ str                   ┆ str                │
+╞═══════╪═══════════════════════╪════════════════════╡
+│ KY    ┆ Ben Chandler          ┆ John Edwards       │
+│ DK    ┆ George Mathews        ┆ John Todd          │
+│ OL    ┆ Julien Poydras        ┆ Daniel Clark       │
+│ WA    ┆ Jaime Herrera Beutler ┆ Columbia Lancaster │
+│ ID    ┆ Raúl Labrador         ┆ William Wallace    │
+└───────┴───────────────────────┴────────────────────┘
